@@ -14,6 +14,83 @@ const UserList = () => {
         onClick={() => {setAddMode((prev) => !prev)}}
         />
       </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
+      <div className="item">
+        <img src="./avatar.png" alt="" />
+        <div className="texts">
+          <span>Jane Doe</span>
+          <p>Hello </p>
+        </div>
+      </div>
     </div>
   )
 }
