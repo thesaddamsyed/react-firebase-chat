@@ -32,7 +32,46 @@ const Chat = () => {
           <img src="./info.png" alt="" />
         </div>
       </div>
-      <div className="center"></div>
+      <div className="center">
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore aperiam perspiciatis nulla culpa, veniam quidem distinctio similique consequuntur id esse excepturi at, doloribus cum dolores? Officia molestiae aut aspernatur laudantium.</p>
+            <span>1 min ago</span>
+            
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore aperiam perspiciatis nulla culpa, veniam quidem distinctio similique consequuntur id esse excepturi at, doloribus cum dolores? Officia molestiae aut aspernatur laudantium.</p>
+            <span>1 min ago</span>
+
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore aperiam perspiciatis nulla culpa, veniam quidem distinctio similique consequuntur id esse excepturi at, doloribus cum dolores? Officia molestiae aut aspernatur laudantium.</p>
+            <span>1 min ago</span>
+
+          </div>
+        </div>
+        <div className="message own">
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore aperiam perspiciatis nulla culpa, veniam quidem distinctio similique consequuntur id esse excepturi at, doloribus cum dolores? Officia molestiae aut aspernatur laudantium.</p>
+            <span>1 min ago</span>
+
+          </div>
+        </div>
+        <div className="message">
+          <img src="./avatar.png" alt="" />
+          <div className="texts">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore aperiam perspiciatis nulla culpa, veniam quidem distinctio similique consequuntur id esse excepturi at, doloribus cum dolores? Officia molestiae aut aspernatur laudantium.</p>
+            <span>1 min ago</span>
+
+          </div>
+        </div>
+      </div>
       <div className="bottom">
         <div className="icons">
           <img src="./img.png" alt="" />
