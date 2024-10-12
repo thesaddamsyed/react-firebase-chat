@@ -42,7 +42,9 @@ const Chat = () => {
         <input type="text" id="messageBox" value={text} placeholder="Type a message...." onChange={handleText}/>
         <div className="emoji">
           <img src="./emoji.png" alt="" onClick={() => setOpen((prev) => !prev)} />
-          <EmojiPicker open={open} onEmojiClick={handleEmoji}/>
+          <div className="picker">
+            <EmojiPicker open={open} onEmojiClick={handleEmoji}/>
+          </div>
         </div>
           <button className="sendButton">Send</button>
       </div>
